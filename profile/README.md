@@ -1,9 +1,4 @@
 <div align="center">
-  <!-- Replace with your actual banner URL -->
-  <img src="assets/banner.png" alt="Digiflex Solution Banner" width="100%">
-  
-  <br><br>
-
   <h1>Empowering Businesses with Scalable Digital Solutions</h1>
   <p><b>Web Development | Mobile Apps | n8n Automations | SEO & Digital Marketing</b></p>
   
