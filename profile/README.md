@@ -15,6 +15,7 @@
 ## The Organization
 
 **Digiflex Solution** is a full-service digital agency delivering high-end software development and targeted marketing. We bridge the gap between robust technical infrastructure and measurable business growth. From building high-performance web applications to orchestrating seamless business automations, our tailored solutions maximize your digital ROI.
+
 ## Core Capabilities
 
 <details open>
@@ -39,12 +40,13 @@ We eliminate manual workflows by connecting your existing toolstack.
 </details>
 
 <details open>
-<summary><b>Digital Marketing & SEO</b></summary>
+<summary><b>Digital Marketing, SEO & Lead Generation</b></summary>
 <br>
-Data-driven campaigns designed to dominate search intent and maximize conversions.
+Data-driven campaigns designed to dominate search intent, capture high-quality leads, and maximize conversions.
 <ul>
   <li><b>SEO:</b> Technical audits, on-page optimization, and authoritative link building.</li>
   <li><b>Performance Marketing:</b> High-ROI PPC and social media campaigns.</li>
+  <li><b>Lead Generation:</b> Optimized funnels, high-converting landing pages, and conversion rate optimization (CRO).</li>
 </ul>
 </details>
 
