@@ -12,14 +12,14 @@
 
 ---
 
-## 🎯 The Organization
+## The Organization
 
 **Digiflex Solution** is a full-service digital agency specializing in enterprise-grade software development and targeted digital marketing. We bridge the gap between complex technical infrastructure and measurable business ROI. From building high-performance web applications to orchestrating complex business automations, our tailored solutions drive growth and operational efficiency.
 
-## ⚙️ Core Capabilities
+## Core Capabilities
 
 <details open>
-<summary><b>💻 Custom Web & App Development</b></summary>
+<summary><b>Custom Web & App Development</b></summary>
 <br>
 We architect secure, scalable, and responsive applications tailored to specific business logic.
 <ul>
@@ -30,7 +30,7 @@ We architect secure, scalable, and responsive applications tailored to specific 
 </details>
 
 <details open>
-<summary><b>🤖 Business Automation (n8n & AI)</b></summary>
+<summary><b>Business Automation (n8n & AI)</b></summary>
 <br>
 We eliminate manual workflows by connecting your existing toolstack.
 <ul>
@@ -40,7 +40,7 @@ We eliminate manual workflows by connecting your existing toolstack.
 </details>
 
 <details open>
-<summary><b>📈 Digital Marketing & SEO</b></summary>
+<summary><b>Digital Marketing & SEO</b></summary>
 <br>
 Data-driven campaigns designed to dominate search intent and maximize conversions.
 <ul>
@@ -51,7 +51,7 @@ Data-driven campaigns designed to dominate search intent and maximize conversion
 
 ---
 
-## 🔄 Engagement Workflow
+## Engagement Workflow
 
 1.  **Discovery & Strategy:** Deep-dive into your operational bottlenecks and market objectives.
 2.  **Architecture & Design:** Wireframing, database design, and sprint planning.
