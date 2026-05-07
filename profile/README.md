@@ -2,10 +2,11 @@
   <h1>Empowering Businesses with Scalable Digital Solutions</h1>
   <p><b>Web Development | Mobile Apps | n8n Automations | SEO & Digital Marketing</b></p>
   
+  <br>
   <p>
-    <a href="https://digiflexsolution.com/"><img src="https://img.shields.io/badge/Website-digiflexsolution.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="mailto:info@digiflexsolution.com"><img src="https://img.shields.io/badge/Contact-info@digiflexsolution.com-red?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
-    <a href="tel:+19177304492"><img src="https://img.shields.io/badge/Call-%2B1%20(917)%20730%204492-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+    <a href="https://digiflexsolution.com/"><img src="https://img.shields.io/badge/Visit_Our_Website-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://digiflexsolution.com/contact-us/"><img src="https://img.shields.io/badge/Book_a_Strategy_Call-059669?style=for-the-badge&logo=calendly&logoColor=white" alt="Contact Us" /></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@digiflexsolution.com"><img src="https://img.shields.io/badge/Email_Us-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -59,19 +60,7 @@ Data-driven campaigns designed to dominate search intent and maximize conversion
 
 ---
 
-## 🚀 Partner With Us
-
-Ready to scale your digital presence or automate your workflows? Let's discuss your next project.
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Book a Strategy Call</b></td>
-      <td align="center"><b>Request a Proposal</b></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://digiflexsolution.com/contact-us/"><img src="https://img.shields.io/badge/Schedule_Consultation-000000?style=for-the-badge&logo=calendly&logoColor=white"/></a></td>
-      <td align="center"><a href="mailto:info@digiflexsolution.com"><img src="https://img.shields.io/badge/Email_Us-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
-    </tr>
-  </table>
+  <h3>Ready to automate your workflows or scale your digital presence?</h3>
+  <a href="https://digiflexsolution.com/contact-us/"><img src="https://img.shields.io/badge/Let's_Talk_Business-1E293B?style=for-the-badge&logo=googlemessages&logoColor=white" alt="Contact Form" /></a>
 </div>
