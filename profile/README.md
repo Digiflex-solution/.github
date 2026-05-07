@@ -14,7 +14,7 @@
 
 ## The Organization
 
-**Digiflex Solution** is a full-service digital agency specializing in enterprise-grade software development and targeted digital marketing. We bridge the gap between complex technical infrastructure and measurable business ROI. From building high-performance web applications to orchestrating complex business automations, our tailored solutions drive growth and operational efficiency.
+**Digiflex Solution** is a full-service digital agency specializing in premium-grade software development and targeted digital marketing. We bridge the gap between complex technical infrastructure and measurable business ROI. From building high-performance web applications to orchestrating complex business automations, our tailored solutions drive growth and operational efficiency.
 
 ## Core Capabilities
 
