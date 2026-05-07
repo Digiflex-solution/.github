@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace with your actual banner URL -->
-  <img src="https://github.com/user-attachments/assets/c86a0089-eeaf-40e0-b139-a32a068633c7" alt="Digiflex Solution Banner" width="100%">
+  <img src="assets/banner.png" alt="Digiflex Solution Banner" width="100%">
   
   <br><br>
 
